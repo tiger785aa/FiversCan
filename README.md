@@ -14,8 +14,6 @@
 <p><b>Currently, we provide the full source on my telegram there are approximately 26 Slots & Casino Providers with any of their latest games which are automatically updates every single provider updating their games.</p></b>
 
 <p><span style="color:#ff0000"><strong>Multiple fixes, merged single database&nbsp;</strong></span><br />
-Demo USER /Demo Play games is added and activated&nbsp;<br />
-Added 100 games, bringing total to 1200 games now.</p>
 
 <ul>
     <li>Set up your server with the following components:
