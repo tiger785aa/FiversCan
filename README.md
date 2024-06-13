@@ -18,11 +18,10 @@
 <ul>
     <li>Set up your server with the following components:
         <ul>
-            <li>OS Almalinux 8 / CentOS 7 recommended</li>
-            <li>Apache</li>
+            <li>OS Almalinux 8 / CentOS 7 / Ubuntu</li>
+            <li>Apache/Nginx</li>
             <li>MySQL</li>
             <li>PHP 8.0+</li>
-            <li>Laravel 10</li>
             <li>Node.js 16</li>
             <li>PM2</li>
             <li>Redis</li>
