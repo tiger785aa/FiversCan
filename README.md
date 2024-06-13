@@ -9,7 +9,7 @@
 <p align="center"><span style="color:#ff0000"><strong>Fiverscan/Fiverscool Panel</strong></span></p>
 <p>&nbsp;</p>
 
-<h2>Full Version Source - Buy officially from Admin On Telegram</h2>
+<h2>Full Version Source - Contact Admin On Telegram</h2>
 
 <p><b>Currently, we provide the full source on my telegram there are approximately 26 Slots & Casino Providers with any of their latest games which are automatically updates every single provider updating their games.</p></b>
 
